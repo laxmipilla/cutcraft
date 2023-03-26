@@ -1,0 +1,105 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Mar 2023 10:38:49 at https://www.kapwing.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.kapwing.com/ -O1 "C:\My Web Sites\cutcraft" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:48:51	Error: 	"Error when decompressing" (-1) at link https://www.kapwing.com/ja/ツール/トリミング (from https://www.kapwing.com/ja)
+10:48:51	Error: 	"Error when decompressing" (-1) at link https://www.kapwing.com/ar/الأدوات/اقتطاع (from https://www.kapwing.com/ar)
+10:48:51	Error: 	"Error when decompressing" (-1) at link https://www.kapwing.com/ar/لأدوات/تغيير-الحجم (from https://www.kapwing.com/ar)
+10:50:56	Warning: 	Unexpected socket error during pre-loop
+10:51:13	Warning: 	Moved Permanently for https://www.kapwing.com/resources/the-best-free-video-editor-on-google/
+10:51:13	Warning: 	File has moved from https://www.kapwing.com/resources/the-best-free-video-editor-on-google/ to https://www.kapwing.com/video-editor
+10:51:13	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-edit-videos-on-an-ipad/
+10:51:13	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-edit-videos-on-an-ipad/ to https://www.kapwing.com/video-editor
+10:52:52	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_63cde6518c681901351cbea3_272149.gif?Expires=1680408011&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=iIQctw1vsvVCtIPy9zKRBw%2BXVcZcOt7xkkqVMh0KXKaRvyuIqz8OSpXxAC%2BwKk9gF%2BPTcTaJo7oyAZwgYgLHx7ySxJmAJLqNVXSGy7svmnhFIQD0%2B3LQMXhL5HjREThyPS3%2Bs8vI5TPU0Fyq%2Fg1QQt1n0gTCuKXGXY%2F8T14kdZZnMakp4SPOuxFk%2BHcHZz7pOECe3bFij4sR%2F6pzx5j320ifMxxBBGJMCUPTA3iaUX4HY0qXHMwNOZfYH7DpoMofFteMvIEaSfwym16x1VQwRec%2FPM314WS9%2B1QkXicvMvx%2BWP%2B7FP4UkcaVHEhpUALtRBLVQzbQhR%2BpYdGJ729zOA%3D%3D (from https://www.kapwing.com/meme-maker)
+10:53:08	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-add-captions-to-video/
+10:53:08	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-add-captions-to-video/ to https://www.kapwing.com/subtitles
+10:53:08	Warning: 	Moved Permanently for https://www.kapwing.com/resources/font-for-subtitles/
+10:53:08	Warning: 	File has moved from https://www.kapwing.com/resources/font-for-subtitles/ to https://www.kapwing.com/subtitles
+10:53:08	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-add-open-or-closed-captions-to-any-video-online/
+10:53:08	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-add-open-or-closed-captions-to-any-video-online/ to /resources/how-to-add-captions-to-video/
+10:54:13	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-add-a-logo-to-a-video/
+10:54:13	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-add-a-logo-to-a-video/ to https://www.kapwing.com/tools/watermark
+10:54:13	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-add-text-effects-and-animations-to-a-video/
+10:54:13	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-add-text-effects-and-animations-to-a-video/ to https://www.kapwing.com/tools/add-effects
+10:54:20	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-make-a-video-square-works-for-square-gifs-and-photos-too/
+10:54:20	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-make-a-video-square-works-for-square-gifs-and-photos-too/ to https://www.kapwing.com/tools/resize
+10:54:43	Warning: 	Moved Permanently for https://www.kapwing.com/resources/instagram-picture-and-video-downloader/
+10:54:43	Warning: 	File has moved from https://www.kapwing.com/resources/instagram-picture-and-video-downloader/ to /resources/how-to-download-an-instagram-video-online/
+10:54:43	Warning: 	Moved Permanently for https://www.kapwing.com/resources/mp4-to-gif-tutorial/
+10:54:43	Warning: 	File has moved from https://www.kapwing.com/resources/mp4-to-gif-tutorial/ to https://www.kapwing.com/tools/convert
+10:54:43	Warning: 	Moved Permanently for https://www.kapwing.com/resources/online-video-recording-studio-recording-screencasting-editing/
+10:54:43	Warning: 	File has moved from https://www.kapwing.com/resources/online-video-recording-studio-recording-screencasting-editing/ to https://www.kapwing.com/tools/record/screen
+10:54:43	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-use-free-screen-recorder-for-windows/
+10:54:43	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-use-free-screen-recorder-for-windows/ to https://www.kapwing.com/tools/record-screen
+10:54:43	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-record-minecraft-on-your-computer/
+10:54:43	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-record-minecraft-on-your-computer/ to https://www.kapwing.com/tools/record-screen
+10:54:43	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-create-a-green-screen-video-without-a-green-screen/
+10:54:43	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-create-a-green-screen-video-without-a-green-screen/ to https://www.kapwing.com/tools/remove-background
+10:54:43	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-make-a-silhouette-picture/
+10:54:43	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-make-a-silhouette-picture/ to https://www.kapwing.com/tools/remove-background/image
+10:54:52	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-overlay-audio-on-an-image-or-video/
+10:54:52	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-overlay-audio-on-an-image-or-video/ to https://www.kapwing.com/tools/add-audio
+10:55:18	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-make-audio-waveforms-for-your-podcast/
+10:55:18	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-make-audio-waveforms-for-your-podcast/ to https://www.kapwing.com/tools/add-effects/waveform
+10:55:18	Warning: 	Moved Permanently for https://www.kapwing.com/resources/how-to-upload-audio-to-youtube/
+10:55:18	Warning: 	File has moved from https://www.kapwing.com/resources/how-to-upload-audio-to-youtube/ to https://www.kapwing.com/tools/add-effects/waveform
+10:58:33	Warning: 	Unexpected socket error during pre-loop
+10:58:33	Warning: 	Unexpected socket error during pre-loop
+10:58:33	Warning: 	Unexpected socket error during pre-loop
+10:58:39	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/video_image-WNY3vc1v2r.jpeg?Expires=1680408011&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=pzco9YnH1KgtPCbnn09H22NrQ6FNQF4f%2BSQjlJeVcugJrDCvQ5e3xmtpLpNBqHhEtGhGCpMl0gh7JilV22oVv5kom4WMLzu7O%2FrL2vOSXqikUY5KWWljaBdq0FvTbpHjkZx72TXweMOQiix%2B7Wua0br5GD7tChITaCh5iHRnc0x2%2F09qso4rtieaI%2Bt%2BoWmSAmK3Ar5QUZ6s8Pv3WMyjx9thfhf3SXcpPBKQtoFqHLSoEgHdkarzH0a8FBtqlJdqk%2BRTpStWOB680EkZSUO%2BsZcdeoTiXYpWhx8GY7nuRtG7wSnAWEw2KB0LEDjmTwNPGF3V%2B%2BH38fRbiWPaIGZUEQ%3D%3D (from https://www.kapwing.com/templates)
+10:58:39	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61098e62d0b34600f7f1b006_16183.jpg (from https://www.kapwing.com/templates)
+10:58:40	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61045ebd278af100a0db3fe3_835022.jpeg (from https://www.kapwing.com/templates)
+10:58:40	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_5c4769a72eb33600142408fe.jpg (from https://www.kapwing.com/templates)
+10:58:40	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_60f672a06ebcb4003239c944_831766.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_60efcaaefe9114003de2b51d_613791.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_60f5227729e554002c7029a6_80111.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_60f5220b384b640031935426_506357.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_60f4c45a695cc3002c3c4b35_234517.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_60efdc84863d4a006e846083_829063.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_60f4bc20171733002bdbb96d_194756.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_6100ac1c6b4df9002f42311b_314279.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_6100ac8205e37100346a3493_794126.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_6100adca4f0a07003507d9a7_780750.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_6100aefe4f0a07003507d9ab_654464.jpg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_611478552842c5004eebc7b1_438464.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61147880950bf70061de5b94_416815.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_6114792f8ca4ae00408fd3b0_244738.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61147997c3ba800045aa7092_427051.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61147a7395bd03003ea5f63b_140888.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61147a1426770b0106141c9b_308559.jpeg (from https://www.kapwing.com/templates)
+10:58:41	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61147b181e291b0094cea6a3_483997.jpeg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61147ac69aba3b009df74052_722430.jpeg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_611585674604d5005e82247b_588889.jpeg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_611585d54468cb0053c11b5c_350931.jpeg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_611589cc06f3fb00d3c186d5_20445.jpeg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_6115895e4122d2003e4d571b_465994.jpeg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61158e89dd0b8100fec460f3_331404.jpg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_6115c32b7d965c006af4d501_296150.jpeg (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn.kapwing.com/final_6115c60d1c88ed00363c99f4_303573.png (from https://www.kapwing.com/templates)
+10:58:42	Error: 	"Forbidden" (403) at link https://cdn-useast1.kapwing.com/image_61158863128b62010cdaef93_324769.jpg (from https://www.kapwing.com/templates)
+10:58:44	Error: 	Exit requested by shell or user
+10:58:48	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/samples/5bbd13361f275ab083f724c9.jpg?Expires=1680408004&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=ooej98yCiTPwFI%2BHnrAF8AQKd9o%2BY8I2GWHxczq8nsNkuveKzG2Y0yGrZaBwPuZQXrVnZuI4Px8BSNaUd36OfmbBp%2BZG9NMUbHXCDamxWhHUZ3kN4tdTXz1vMOAD9D8%2FkAenL%2BITtieuBtUO%2BuIJa7dmmGhOMzRbK0IYc2epzHvNrq5DIsnBSuIl2L1IlI9WMJ2Z2ExXwLQPj%2BeNLjvfNaQkjbtyKUjsqyhdjHQ%2BWnTgD3RJsfOWi5rQ8Z%2FZXAzJ0KyCrDn5X3fxIr%2BLiLItVUfgwftoG7xCnFhb1AEGckENx0KDjcAIFquJnGJqAwF4FHBMhWuZVxB%2BeMCSIY7H0w%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:48	Error: 	"Not Found" (404) at link https://cdn.kapwing.com/final_5eac552c35de250015475477_719180.png?Expires=1680408002&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=X4hObZGFt1apAMKGcejPdDKVbTDBMJTk0iGim2qws9HVL7RoVLVoNdZwFrYidMO09xeoz%2FiigUgEiUBtVitzmJ%2FmLCjJEVPA1d%2BooDtwSdymOdBqUhnkU6D8FNPrsS1kcmHNp38sBbqgtrgi5Qb6sIg9iH%2FKGFElVvVPa6XfBrivwjfuLu4av6AmTtLOaHFjC%2Fm2lxsYFZF2Cu%2FExy8Y%2BJwWVIPHmXl4hdsqema8A%2FFzdFQfN6udMYtbrCh9dBj86kshXnRiVR8Uw8QhiiduOm5v69Qvf9RzViBgyOciL01DDOLVdJ6%2Fyo9qcly5f15ycvSeLA6pnBP47d4PKxPbMw%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:48	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5be9befbef86980013891b2a.jpg?Expires=1680408001&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=Ynppy7IjNM0BkDrEO91vVPNkOFGMpTI8Q7TwMxJRPS5GD6lufBIuZ2ChOLVlF7ukav0uxL0nb9bU%2BcH%2BckUs562epYpEIZU5rYyg4pNmSpC4kCG3cg8IrbWYxcqlSVp9RSsGGxqmT7qTcmu4Ggaqv7r8IUE%2BDOMmAeKTBgYjSB3%2FjpnHpFvuDYh1C5EuD9dz89g%2FQ59ZigCjxPGYAJdg%2Fj5i%2F3i4tGHmUNsv9yJegxvh0XJDC6VeBSopmeo%2BPBG%2BcGUnMUm2DnWHkEioUtpoYIMMm8oEdkHE7mMH1VY6FmlLZc7%2FRDjp47qIIYTCGxMiGyBjyKJPMvP5O5%2FXjTyKPg%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:48	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5be9bd4eef86980013891b14.jpg?Expires=1680408001&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=lYbKsPreKSCFyfpH%2BVL68kqIH46QAXrTB5MGAJlycKAM4cfyaqxuiy%2FVzB7i0IO4VSDq2jG%2BzTEcnsTRkMDSmwbil8ABbI1KMttHmfIKHPMc8rgVPGmM0dTwoLmxKQ7MKbYdFdFZMdfpaNhd%2BZXol8DpFf1ml8mC58Noj5A%2BZEkXJsRdsktk7rd8rk2M5gmA4D1cKYDrv5HGPcWvd6%2BAU13QjuJSI8Hk2rYSB9DZULclIjVv%2BAu67hquG0bE6Kbs7IeP0%2F2SHPKeSMHwa9t%2FILCWFtYyESnEXxVU6osq%2Br3jeTyjP0rCs%2BsjOKZyrZuH8TgvYfiufvz0ZpjOYb78UQ%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:49	Error: 	"Not Found" (404) at link https://cdn.kapwing.com/samples/5be90ff8ef86980013891397.jpg?Expires=1680408001&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=OHuXjDrLg8tN1uCSEepIrxUeR6rZywShHEoogN5BLcSc7kC5As6T7vRNR7xSXTerQC50Mag2FgNAt3q4Nl7P94Ub6HzPHPULz5cANuVnv%2FgCPODBnqh5n2vooFbUtbu1pxcDS7yDlviku50gBsG6dQhdNXwsePLzJ98LH7naiGOanihgfNcXbqRlsqT4sGrnn65JRwcMNi9cFbepzRG5VILCqMLhXxl7kHquDgX8w1STIh2673dN4TqDCNAPqpo1GhuwX5a0MQBInU0TjkJc19lS1OpIO2Fmxzk22UPDt3zOxZ3%2FW4PuIgK3P%2FtWcZCNjnGTfJaaR6DsLMy26X0AUw%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:49	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5bc92c94579a1700125f80f7.jpg?Expires=1680408000&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=tS2sDgVMGzw72xxkGt1o3KbRrfySkr9%2FCofrEQdNjekpsW%2BIkrJGazFkpBWkJbXPiy0eDODf%2Ff2FdqtMrMe7lcyX3UOLjEjOHFnz1FoILSUP3a9ITGHcNMyYHG0thDsxtcKcda%2F69LD1ijO8WLFYOZZeZ3feLfEu9fwu5EscahGpEohbM9Nzb4q%2FDUWZcrWZk9C5a0ZkWzvHr7B1mS6V%2F4NBmmkQxl%2BP3VQSvi4s%2FzWKeKpM6QDyRcC5Fta9eB8FoJ4mTr8HVBmmbluuOFOnrIrbWvTuC2Evw%2FlGOxiVeqv1T4ifWrMq54XdtBjx5u6fS81cckyhqAM6TBNGJG99Bw%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:49	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5bc92a770b0c35001262454f.jpg?Expires=1680408000&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=GvDwgo2R1Amlwc2YjjkBOX9vCCpTvG7bdnU%2BuS7W6pUpoh4qGtXcT5NV2AYpHCRcMOWHg6lGv7GI7fAtmpA675Dxwm0veI8qxBHxEwgXwCuMltc%2FWSEU26uxQ1pahuRpKeehF3GoS1oftKhlumUYiU%2Ba%2BpL0xZn1TQQEXZUP%2FsKZTYdLHfTVeXb9UqYsg7EaWob8xv%2FjqVrrmcvRcnbnQ%2BTwoyvSKrNqL%2BpDSpwApqOEiSJCUXFxklJkawALfwteq%2FgosyYdzW7ceM%2By56z8mjXvBONDwa6MXFmHrp5afPlfXtNA%2FuOa%2Bp%2F4nKuJCL6jdYgS36tp2o8jozc5dJ3W4A%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:49	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5bc51b1725f71a001396dfcb.jpg?Expires=1680408000&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=Gi%2Fdj2t77wrJsAmVDfdUp8sS86wyo78w5qUYILEj0cHfIgGNOPZn9M57geR9WBHqmitybz34DI3bTA9vdcm5OJJTckpYETGh1%2FCYGy3BED8bdB0jkERW6yc9CJ7oM0iwo5l%2FJFdAD6yGYqzsJ62SiryXvjeUWvDGGZKIEXuiuRNbPB7ltoktqMJ7Q8shZY13beiSZl86%2FLe11ifdv60Xxw%2B8BV2U9GlfalzpNxhEbyiaHnFQ%2BzYvXOCxZx%2BmJffKqH6UfgKtfdyjTMTiDIwJx2BZTZoeQdvfP7ZR%2FzZaBGdyRRdI7l4Cs9iyGWXjicAdWCIKC0CoJjAOQ3Ao6kDb7A%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:49	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5bc527caf064ba0012a4f1e9.jpg?Expires=1680408000&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=WUAgsGvSwwn77sgGmqYuzgtsyRPzr%2FaJmfbslXygSh%2Bhjn8nGN%2Bmn%2Ff9NF3mgweUTu3GFa2boQ8OvXtYNjNjPcnRe28PChhZLMhVUJ0vM78qil6L5aWhA0vumuoJu%2B4sCxuqs9pavMh%2FupGI9etW0n4NqUPKe9e8h2nwnBAabjPtA7j0v5cXtVAKYWxzJG%2BpWsaEs%2FeDDPGTLHcPbfo4weS5m3oa3TGELqeC%2FHOS8%2FpSW5Dq8lxyaeNmcOd%2FuMzrSqlOswsPjwELULfdd%2FgEa3B9uItII2ID%2Fyn9XiUiHjxWfDAb2r4MvjhZYcvq6Lue%2FJACC5YISo6UCsvDHFlhhA%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:49	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5bc3dbc2c97e030013110730.jpg?Expires=1680408000&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=dp4Cwc66c3oBa5X4HP1IXyS%2FYH3nEte%2BMdL12GvJDHWYd81eLiG6dX8JshOh1pfd9SsaT1lxfvTYxnMrBjKbFOqF9DQ%2BYzJfuk8KwSGHt8jGJQexm7q0n87ejArJRuKfGoiUzq%2Fc4imk%2FakYCqx%2FotDoCDcVqLSE0GWpEFD7gYWqxoV1VbNO6%2B7bnxa6dDAj2oHC8u%2FHW4M6C4Ry2T1WB53vkkfxZQccHhBw02sJnAHWu9bty2%2BgAKpG2F%2F5nJqSyJzeNIGNmXc4t9rU2drvgIk5glp4Qd2at9yvoU8lx1RK8nL303cU1GbWGKVOWCjZrsl2surcVypBUykkKhRNeQ%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:50	Error: 	"Not Found" (404) at link https://cdn-useast1.kapwing.com/final_5bc3bcb3fde32f00129e0d46.jpg?Expires=1680408000&GoogleAccessId=dev-sa-videoprocessing%40kapwing-dev.iam.gserviceaccount.com&Signature=ikw03XOq%2B8DQGgUE7vsNu%2BgULfzNEHb62krUTnWdo%2Bc1S8GytWWaQLHCqfYNImDa3rd4e4ZQ9HqrwXan5XvsH9%2FVWKIvGkpVDT06I%2B%2BEDBYGL7pH%2BtmsjL6mejgIxxiJg%2F8qisRBcwdJtFCsNkmulg0iQQHETMMPHsron%2Fn0kGO3ApuNs2%2FBLot%2FibbEp5Oh1xuDrpjXY%2BE9B1wo3QrZicYRNe0t2PCBFmKE%2BsPEw2DCC7m7M6Kzhq2Hc3p%2BG%2BgCdHFMzw5ALf0UAbuzRfuGhkAmuPK2XCYKrs2bHZ2Ro7q9fALRLXS4Eslv1eIP%2FWI4MeKKvkXY6YUPJASCSClARg%3D%3D (from https://www.kapwing.com/templates/collage)
+10:58:50	Error: 	Exit requested by shell or user
+10:58:50	Error: 	"" (-1) at link https://www.kapwing.com/explore/story-with-a-photo-in-photo-overlay (from https://www.kapwing.com/templates/collage)
+10:58:50	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 1 seconds : 2876 links scanned, 2027 files written (549637311 bytes overall) [389372071 bytes received at 324206 bytes/sec], 224046520 bytes transferred using HTTP compression in 1426 files, ratio 19%, 3.5 requests per connection
+(50 errors, 40 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
